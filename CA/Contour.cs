@@ -21,7 +21,8 @@ namespace ContourAnalysisNS
     /// Contour
     /// </summary>
     /// <remarks>Vector of complex numbers</remarks>
-    [Serializable]
+    [Serializable]/*串行化是指存储和获取磁盘文件、内存或其他地方中的对象。在串行化时，所有的实例数据都保存到存储介质上，在取消串行化时，对象会被还原，且不能与其原实例区别开来。
+                    只需给类添加Serializable属性，就可以实现串行化实例的成员。*/
     public class Contour
     {
         Complex[] array;
@@ -43,7 +44,7 @@ namespace ContourAnalysisNS
             }
         }
 
-        public Complex this[int i]
+        public Complex this[int i] /*this 是 Contour?*/
         {
             get { return array[i]; }
             set { array[i] = value; }

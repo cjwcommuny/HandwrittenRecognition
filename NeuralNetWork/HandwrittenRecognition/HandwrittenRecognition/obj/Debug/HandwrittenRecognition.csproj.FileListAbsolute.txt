@@ -1,0 +1,22 @@
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\bin\Debug\HandwrittenRecogniration.exe
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\bin\Debug\HandwrittenRecogniration.pdb
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\bin\Debug\NeuralNetworkLibrary.dll
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\bin\Debug\NeuralNetworkLibrary.pdb
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecognition.csprojResolveAssemblyReference.cache
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.BackPropagationParametersForm.resources
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.Mainform.resources
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.Properties.Resources.resources
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecognition.csproj.GenerateResource.Cache
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.exe
+D:\桌面\neural net work\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.pdb
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\bin\Debug\HandwrittenRecogniration.exe
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\bin\Debug\HandwrittenRecogniration.pdb
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\bin\Debug\NeuralNetworkLibrary.dll
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\bin\Debug\NeuralNetworkLibrary.pdb
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecognition.csprojResolveAssemblyReference.cache
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.BackPropagationParametersForm.resources
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.Mainform.resources
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.Properties.Resources.resources
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecognition.csproj.GenerateResource.Cache
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.exe
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\HandwrittenRecognition\obj\Debug\HandwrittenRecogniration.pdb

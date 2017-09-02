@@ -1,0 +1,10 @@
+D:\桌面\neural net work\HandwrittenRecognition\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.dll
+D:\桌面\neural net work\HandwrittenRecognition\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.pdb
+D:\桌面\neural net work\HandwrittenRecognition\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+D:\桌面\neural net work\HandwrittenRecognition\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.dll
+D:\桌面\neural net work\HandwrittenRecognition\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.pdb
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.dll
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.pdb
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.dll
+D:\文档\GitHub\ContourAnalysis\NeuralNetWork\HandwrittenRecognition\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.pdb

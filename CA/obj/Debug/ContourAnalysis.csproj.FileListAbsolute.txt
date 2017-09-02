@@ -1,0 +1,9 @@
+D:\文档\GitHub\ContourAnalysis\CA\bin\Debug\ContourAnalysis.dll
+D:\文档\GitHub\ContourAnalysis\CA\bin\Debug\ContourAnalysis.pdb
+D:\文档\GitHub\ContourAnalysis\CA\obj\Debug\ContourAnalysis.csprojResolveAssemblyReference.cache
+D:\文档\GitHub\ContourAnalysis\CA\obj\Debug\ContourAnalysis.dll
+D:\文档\GitHub\ContourAnalysis\CA\obj\Debug\ContourAnalysis.pdb
+D:\文档\GitHub\ContourAnalysis\CA\bin\Debug\MathNet.Numerics.dll
+D:\文档\GitHub\ContourAnalysis\CA\bin\Debug\System.Threading.dll
+D:\文档\GitHub\ContourAnalysis\CA\bin\Debug\MathNet.Numerics.xml
+D:\文档\GitHub\ContourAnalysis\CA\bin\Debug\System.Threading.xml
